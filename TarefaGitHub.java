@@ -19,6 +19,8 @@ public class TarefaGitHub {
 			valor+=nomeArr[i]*i;
 		}
 		System.out.println("O valor das letras do nome é: "+valor);
+		
+		System.out.println("Yago Ramas Muiño estuvo aquí");
 	}
 
 }
